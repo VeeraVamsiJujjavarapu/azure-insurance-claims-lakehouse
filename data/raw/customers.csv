@@ -1,0 +1,13 @@
+customer_id,customer_name,customer_state,customer_segment,signup_date
+CUST001,Aarav Patel,IL,Individual,2022-01-15
+CUST002,Mia Johnson,TX,Individual,2021-11-03
+CUST003,Noah Smith,CA,Family,2020-06-21
+CUST004,Sophia Brown,NY,Individual,2023-02-10
+CUST005,Liam Wilson,FL,Business,2019-09-18
+CUST006,Emma Davis,WA,Family,2021-04-09
+CUST007,Olivia Miller,GA,Individual,2022-08-30
+CUST008,Ethan Garcia,AZ,Family,2020-12-12
+CUST009,Isabella Martinez,NJ,Business,2023-05-22
+CUST010,Lucas Anderson,OH,Individual,2021-07-17
+CUST011,Amelia Thomas,,Family,2022-03-11
+CUST012,Mason Taylor,CO,Individual,2024-01-05
